@@ -2,7 +2,7 @@
 The script and folder structure are for the data analysis assignment of the Environmental Forensics classes (IEG301 and IEA514) of the Environmental Technology and Environmental Science programs. These programs are under the Environmental Technology Division of the School of Industrial Technology, Universiti Sains Malaysia.
 
 ## Objective
-The purpose of the repo is to provide a location for the student to download the sample script and project folder structure and use it as a template for the preparation of the data analysis report.
+The purpose of the repo is to provide a location for the student to download the sample script and project folder structure and use it as a template for the preparation of the data analysis report assignment.
 
 ## Use Instructions 
 1. On your computer, create a RStudio project within the RStudio application.
