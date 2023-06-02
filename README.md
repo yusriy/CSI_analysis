@@ -1,4 +1,4 @@
-# Sample Data Analysis R Scripts for the Environmental Forensics Class
+# Sample Data Analysis R Scripts for the Environmental Forensics Class: CSI Analysis
 The script and folder structure are for the data analysis assignment of the Environmental Forensics classes (IEG301 and IEA514) of the Environmental Technology and Environmental Science programs. These programs are under the Environmental Technology Division of the School of Industrial Technology, Universiti Sains Malaysia.
 
 ## Objective
