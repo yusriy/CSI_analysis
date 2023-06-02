@@ -11,6 +11,10 @@ summary(df)
 # Names for the x labels
 samples <- c(rep('car',9), rep('plant', 5), rep('scene', 6))
 
+# Change the column sample from being a character to a factor
+
+df$Sample <- as.factor(df$Sample)
+
 #### Ca ####
 # Scatter plot
 # Graphic device jpeg
